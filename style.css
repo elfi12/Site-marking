@@ -1,0 +1,47 @@
+h2 {
+    margin: auto;
+}
+div {
+    margin-top: 2px;
+    text-align: center;
+}
+.container {
+    width: auto;
+}
+.header {
+    background: #82D5E5;
+    height: 150px;
+}
+.navigation {
+    background: #afdeff;
+    height: 40px;
+}
+.content {
+    
+    background: #82D5E5;
+    float: left;
+    width: 750px;
+    /* Высоту можно изменять (Внизу)*/
+    height: 1500px;
+}
+.slidebar {
+    
+    background: #afdeff;
+    float: right;
+    width: 175px;
+    height: 250px;
+}
+.clear {
+    clear: both;
+}
+.footer {
+    margin-top: 4px;
+    background: #75c9d8;
+    height: 125px;
+}
+/* Не обязательно (Внизу)*/
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font: bolder;
+    text-align: center;
+}
